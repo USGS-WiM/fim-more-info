@@ -1,0 +1,4 @@
+<rule name="ReverseProxyNodeFimMoreInfo" stopProcessing="true">
+    <match url="(^fim-more-info$|^fim-more-info/$)" />
+    <action type="Rewrite" url="http://localhost:3001/{R:1}" />
+</rule>

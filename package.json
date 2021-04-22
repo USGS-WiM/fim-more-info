@@ -1,0 +1,25 @@
+{
+  "name": "fim-more-info",
+  "version": "0.0.0",
+  "description": "Simple node service to get additional info for some fim sites",
+  "main": "more-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USGS-WiM/fim-more-info.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Nick Estes, WIM (Web Informatics and Mapping, US Geological Survey)",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/USGS-WiM/fim-more-info/issues"
+  },
+  "homepage": "https://github.com/USGS-WiM/fim-more-info#readme",
+  "dependencies": {
+    
+  }
+}
