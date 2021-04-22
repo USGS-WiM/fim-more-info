@@ -3,7 +3,7 @@ const http = require('http');
 var url = require('url');
 
 const hostname = '127.0.0.1';
-const port = 3001;
+const port = 3002;
 
 const server = http.createServer((req, res) => {
     var siteno = url.parse(req.url, true).query['siteno'];
